@@ -4,4 +4,4 @@ print ("And now it lives on GitHub")
 
 print ("With one more line added!")
 
-print("After adding personal authentication key...")
+print("After adding personal authentication key... :)")
